@@ -14,6 +14,14 @@ Modern agent systems are difficult to debug. Developers often cannot easily see:
 
 AgentLens adds a lightweight instrumentation layer that records structured events during agent execution and streams them to a dashboard.
 
+## Quick Start
+
+Clone the repository and run the example agent to see how AgentLens captures events from tool execution.
+
+git clone https://github.com/joshuamlamerton/AgentLens
+cd AgentLens
+python examples/simple_agent_demo.py
+
 ---
 
 ## Architecture
