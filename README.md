@@ -1,6 +1,9 @@
 # AgentLens
 
-AgentLens is a real-time observability and debugging layer for AI agents.
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
+![Status](https://img.shields.io/badge/build-experimental-orange)
+
+A real-time observability and debugging layer for AI agents.
 
 Modern agent systems are difficult to debug. Developers often cannot easily see:
 
